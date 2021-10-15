@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adi Jain
+- 👋 Hi, I’m Aditya Jain
 - 👀 I’m interested in coding and gaming a lot. Also, I'm passionate about learning new things hard or tough doesn't matter.
 - 🌱 I’m currently learning machine learning with Python and will be doing it further for like deep learning and stuff.
 - 💞️ I’m looking to collaborate on that's a secret.
